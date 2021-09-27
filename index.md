@@ -2,7 +2,7 @@
 ---
 
 <p align="right">now I will list or note something in this page</p>
-<img align="right" src="./head.jpg"></img>
+<img align="right" src="./head.jpg"/>
 <br>
 <br>
 <br>
