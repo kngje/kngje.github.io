@@ -2,11 +2,15 @@
 ---
 
 <p align="right">now I will list or note something in this page</p>
-<body><img align="right" src="./head.jpg"></img></body>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<img align="right" src="./head.jpg"></img>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### 超链接
 <a href="https://www.baidu.com">百度</a>
