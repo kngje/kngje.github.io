@@ -9,6 +9,12 @@ logfile ""
   
 # [line 192] redis的工作目录（存放持久化文件和日志文件） 
 dir ./
+
+# [line 42] 是否以守护进程的方式启动
+daemonize no
+
+# [line 42] 配置redis鉴权密码（密码为：foobared）
+requirepass foobared
 ```
 
 
