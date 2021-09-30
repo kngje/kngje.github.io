@@ -14,6 +14,8 @@
 
 #### 超链接
 <a href="https://www.baidu.com">百度</a>
+<a href="./redis-Start">Redis快速开始</a>
+<a href="./redis-Configure">Redis配置文件</a>
 
 #### 代码片段
 ##### shell
